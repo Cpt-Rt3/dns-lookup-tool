@@ -7,3 +7,4 @@ Beginner-friendly Python utility to fetch a domain’s **IP address**, **nameser
 sudo apt update
 sudo apt install -y python3-dnspython
 
+
